@@ -46,6 +46,9 @@ Create a database
 ```
 python machine.py
 ```
+
+---
+## 📁Folder Structure
 ```
 📁 Folder Structure
 coffee-vending-machine/
